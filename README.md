@@ -10,7 +10,7 @@
 * 블루투스 모듈을 아두이노 보드와 연결된 상태에서 코드를 컴파일하고 업로드 시 에러가 발생한다.
 * 아두이노 보드의 0번핀(RX)과 1번핀(TX)은 아두이노 IDE를 통해 작성한 프로그램을 업로드하여 사용하는 핀이다.
 * 따라서 먼저 프로그램을 아두이노 우노 보드에 업로드하고 TX핀과 RX핀을 블루투스 모듈과 연결한다.
-![bluetooth_screenshot1](./bluetooth/bluetooth_error.png)
+![bluetooth_screenshot1](./bluetooth/bluetooth_error.png){: width="606" height="538"}
 
 
 ## 적외선 리모컨 컴파일 에러 처리
